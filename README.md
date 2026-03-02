@@ -40,13 +40,11 @@ Genetics studying OvO
 - 研究价值：它是三核苷酸重复疾病的代表（与亨廷顿并列）。目前反义寡核苷酸疗法进入III期临床，是基因沉默疗法的前沿案例。
 - 关键词搜索：`myotonic dystrophy type 1 anticipation`、`somatic mosaicism CTG repeat`
 
----
-
 ***接下来：快速浏览一下这几个方向的综述文章，看哪个的机制图、临床表现、前沿治疗最inspiring。***
 
 ---
 
-**ideas from PARENTS*
+*ideas from PARENTS*
 - 我们心血管面对的**肥厚性心肌病**有单基因遗传的类型，你也可以查查
 - 已知人类单基因病8000多种，符合孟德尔遗传规律，也很有意思，是遗传基础。
 - 我们前两月碰到一种心脏病，**法布雷氏病**(**Fabry disease**)也是基因遗传染疾病，很罕见，你也可以看看资料
