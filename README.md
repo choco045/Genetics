@@ -40,4 +40,6 @@ Genetics studying OvO
 - 研究价值：它是三核苷酸重复疾病的代表（与亨廷顿并列）。目前反义寡核苷酸疗法进入III期临床，是基因沉默疗法的前沿案例。
 - 关键词搜索：`myotonic dystrophy type 1 anticipation`、`somatic mosaicism CTG repeat`
 
-接下来：快速浏览一下这几个方向的综述文章，看哪个的机制图、临床表现、前沿治疗最inspiring。
+---
+
+***接下来：快速浏览一下这几个方向的综述文章，看哪个的机制图、临床表现、前沿治疗最inspiring。***
